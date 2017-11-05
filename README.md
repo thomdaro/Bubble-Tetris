@@ -1,2 +1,3 @@
 # Bubble-Tetris
-Implementation of a Tetris-like game in Java, using circles.
+
+Created for an introductory Computer Science course at Indiana Univerisity Bloomington, Spring 2017. 
